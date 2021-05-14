@@ -122,7 +122,7 @@ contract owned {
 //---------------------        MAIN CODE STARTS HERE     ---------------------//
 //****************************************************************************//
     
-contract AlphaOmegaCoin is owned {
+contract lionDEXToken is owned {
     
 
     /*===============================
