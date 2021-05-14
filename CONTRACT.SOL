@@ -25,7 +25,7 @@
     => Symbol      : LDEX
     => Total supply: 1,000,000  (1 Million LDEX)
     => Decimals    : 9
-	  => Twitter     :https://twitter.com/lionDEX
+    => Twitter     :https://twitter.com/lionDEX
     => Medium      :https://medium.com/@liondexfinance
     => Telegram    :https://t.me/LionDEX
     => website     :https://Liondex.finance
@@ -34,8 +34,8 @@
 ============= Independant Audit of the code ============
     => Multiple Freelancers Auditors
     => Community Audit by Bug Bounty program
-	=> Contract Audited by https://etherauthority.io/
-
+    => Contract Audited by https://etherauthority.io/
+    => SPDX-License-Identifier: UNLICENSED
 
 -------------------------------------------------------------------
  Copyright (c) 2021 Liondex finance. 
