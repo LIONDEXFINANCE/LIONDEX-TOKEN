@@ -13,4 +13,4 @@ Our investors will earn up to 30% APY or ~2.5% monthly profits of token value by
 
 Funds raised from the crowd-sale will be used to provide liquidity solutions for the Injective.
 
-please see the whitepaper for more information!
+please see the litepaper for more information!
