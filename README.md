@@ -34,7 +34,7 @@ At Liondex you can easily convert your BEP721 NFTs to LDEX and BNB on the Binanc
 # TOKEN ALLOCATION INFORMATION
 We have a total Supply of 10,000,000 (ten million) LDEX tokens of which 60% will be in circulation and 40% will be burned after The Crowd-sale to decrease supply and increase token value. The breakdown are as follows:
   
-  40% => 4,000,000LDEX =>RESERVED TOKENS (will be burnt).
+  40% => 4,000,000LDEX =>RESERVED TOKENS (will be burnt).<br/>
   20% => 2,000,000LDEX =>TOKEN SALE (leftover will be burnt).
   15% => 1,500,000LDEX =>MARKETING.
   10%  =>1,000,000LDEX =>AIRDROP AND BOUNTY COMPETITIONS (will not be locked)
