@@ -2,14 +2,14 @@
 BEP20 COMPLIANCE.
 
 # ABOUT US
-Liondex DEFI aims to build a decentralized exchange (DEX) to run on the BSC Network, where users are allowed to trade and purchase crypto assets, NFTs, available and tokenized stock market assets, without the need for any intermediary. also, we plan to build a farm where investors can stake tokens and earn BNB,LDEX as a profit for the staked tokens.
+LionDex Defi aims to build a decentralized exchange (DEX) to run on the BSC Network, where users can trade and purchase cryptocurrency assets, NFTs, and tokenized stock market assets without the need for any intermediaries. Also, we will build a farm where investors can stake tokens and earn BNB or LDEX as a profit for the staked tokens.
 
 Liondex will be a solution that makes use of innovative features such as secure locking, bot protection, (AI)advanced trading engines, Liquidity and fund control, etc to assist traders Generate More profits.
 We will also create and make multi-asset pools accessible to those who want multi-asset trades.
 The purpose of all this is to provide safe and stable trading for users, thus yielding more profits than other decentralized exchanges with optimum asset security.
 
-# In addition, Liondex will begin trading in tokenized stocks of major corporations such as Google and others after launching the full exchange. 
-Liondex primary aim is building an exchange were both crypto and stock market assets can be assessed and traded. The massive transition to decentralized economy has birthed the need for tokenization of physical assets, more and more  companies and coperations are considering use of the blockchain technology, thereby tokenizing their shares and assets. 
+In addition, Liondex will begin trading in tokenized stocks of major corporations such as Google and others after launching the full exchange. 
+Liondex primary aim is building an exchange were both crypto and stock market assets can be assessed and traded. The massive transition to decentralized economy has birthed the need for tokenization of physical assets, more and more companies and coperations are considering use of the blockchain technology, thereby tokenizing their shares and assets. 
 
 # Token Use
 Liondex tokens (LDEX) Will be used to perform tasks on the exchange such as staking,farming,locking Liquidity, futures trading, service and value payments, e.t.c.
