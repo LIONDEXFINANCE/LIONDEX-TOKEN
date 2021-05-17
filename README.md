@@ -1,7 +1,7 @@
 # LIONDEX-TOKEN
 BEP20 COMPLIANCE.
 
-<ABOUT LIONDEX>
+# ABOUT US
 Liondex DEFI aims to build a decentralized exchange (DEX) to run on the BSC Network, where users are allowed to trade and purchase crypto assets, NFTs, available and tokenized stock market assets, without the need for any intermediary. also, we plan to build a farm where investors can stake tokens and earn BNB,LDEX as a profit for the staked tokens.
 
 Liondex will be a solution that makes use of innovative features such as secure locking, bot protection, (AI)advanced trading engines, Liquidity and fund control, etc to assist traders Generate More profits.
@@ -11,7 +11,7 @@ The purpose of all this is to provide safe and stable trading for users, thus yi
 # In addition, Liondex will begin trading in tokenized stocks of major corporations such as Google and others after launching the full exchange. 
 Liondex primary aim is building an exchange were both crypto and stock market assets can be assessed and traded. The massive transition to decentralized economy has birthed the need for tokenization of physical assets, more and more  companies and coperations are considering use of the blockchain technology, thereby tokenizing their shares and assets. 
 
-<USE OF LIONDEX TOKEN>
+# Token Use
 Liondex tokens (LDEX) Will be used to perform tasks on the exchange such as staking,farming,locking Liquidity, futures trading, service and value payments, e.t.c.
 After our crowd-sale, Our tokens can also be traded for other tokens such as BNB,BUSD and USDT on other external exchanges e.g Pancakeswap,hotbit,binance.
 please see our roadmap for future update notes.
@@ -34,15 +34,37 @@ At Liondex you can easily convert your BEP721 NFTs to LDEX and BNB on the Binanc
 # TOKEN ALLOCATION INFORMATION
 We have a total Supply of 10,000,000 (ten million) LDEX tokens of which 60% will be in circulation and 40% will be burned after The Crowd-sale to decrease supply and increase token value. The breakdown are as follows:
   
-  40% => 4,000,000LDEX =>RESERVED TOKENS (will be burnt).<br/>
-  20% => 2,000,000LDEX =>TOKEN SALE (leftover will be burnt).<br/>
-  15% => 1,500,000LDEX =>MARKETING.<br/>
-  10%  =>1,000,000LDEX =>AIRDROP AND BOUNTY COMPETITIONS (will not be locked).<br/>
-  10% => 1,000,000LDEX =>PROJECT DEVELOPMENT.<br/>
-  5% =>  500,000  LDEX =>TEAM (will be locked and 1% released each month to sum up a yearly 12%).<br/>
-  TOTAL = 10,000,000 LDAX.
+  20% => 2,000,000LDEX => RESERVED FOR STAKING AND HOLDING REWARDS.<br/>
+  20% => 2,000,000LDEX => TOKEN SALE (leftover will be burnt).<br/>
+  20% => 2,000,000LDEX => LIQUIDITY (will be used to add initial liquidity to pancakeswap, all LP tokens will be burned locking down 100% liquidity forever.).<br/>
+  15% => 1,500,000LDEX => MARKETING.<br/>
+  10% => 1,000,000LDEX => AIRDROP AND BOUNTY. (will not be locked).<br/>
+  10% => 1,000,000LDEX => PROJECT DEVELOPMENT.<br/>
+  5%  => 500,000  LDEX => TEAM (will be locked and 1% released each month to sum up a yearly 12%).<br/>
+  TOTAL = 10,000,000 LDEX.
   
-<TOKEN CROWD-SALE INFORMATION>
+# ROAD MAP
+Token Launch 16th May 2021 <br/>
+
+Airdrop and Bounty 17th May - 23rd May 2021.<br/>
+
+Token Sale:<br/>
+  Presale: 24th May - 6th June 2021.<br/>
+  Crowdsale: 7th June - 20th June 2021.<br/>
+  
+LionDex Exchange Launch: 21st June 2021.<br/>
+
+Airdrop Distribution: 22rd JUne - 23rd June.<br/>
+
+Listing:<br/>
+  Phase 1: Pancakeswap, Hotbit, CoinTiger =>  24th June 2021 <br/>
+  Phase 2: CoinMarketCap, Coingecko => 1st July 2021 <br/>
+  Phase 3: Latoken, Gate.io, Okcoin => 15th JUly 2021 <br/>
+  Phase 4: MXC Ex, Okex => 29th July 2021 <br/>
+  Phase 5: Kucoin => 1st September 2021 <br/>
+  Phase 6: Binance => 1st October 2021<br/>
+  
+# TOKEN CROWD-SALE INFORMATION
  We have set aside 2,000,000 LDEX Tokens for our token-sale where 880,000 LDEX Tokens will be available for pre-sale and 1,120,000 LDEX Tokens will be available for 
  the Crowd-sale. Below are pre-sale and crowd-sale prices in BNB.
   
@@ -73,7 +95,7 @@ We have a total Supply of 10,000,000 (ten million) LDEX tokens of which 60% will
  OUR SOFT CAP : 400BNB
  OUR HARD CAP : 1000BNB
  
- <USES OF RAISED FUNDS>
+ # USES OF RAISED FUNDS
  We are Launching of pancake swap immediately after token sale.
  60% of Funds raised from the crowd-sale will be used to lock liquidity forever on pancakeswap.
  20% of Funds raised will be used to list token on major exchanges like Binance and Kucoin
